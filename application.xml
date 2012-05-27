@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.2">
+  <id>RhinodeGUI</id>
+  <versionNumber>0.01</versionNumber>
+  <filename>RhinodeGUI</filename>
+  <name>RhinodeGUI</name>
+  <description>A gui for nodeJS.</description>
+  <initialWindow>
+    <title>RhinodeGUI</title>
+    <content>RhinodeGUI.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <!--<supportedProfiles>extendedDesktop</supportedProfiles>-->
+  <supportedProfiles>desktop extendedDesktop</supportedProfiles>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+</application>
